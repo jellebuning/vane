@@ -90,8 +90,7 @@ first-class light and dark mode support.
 
 All colors live in a small set of `vn-*` variables per mode (`dark`/`light`)
 at the top of `themes/vane.yaml`. Change a color there and it propagates
-everywhere it's used — see [`CLAUDE.md`](CLAUDE.md) for how the file is
-structured.
+everywhere it's used.
 
 <!-- CONTRIBUTING -->
 ## Contributing
